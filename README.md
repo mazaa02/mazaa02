@@ -1,5 +1,5 @@
 - 👋 hi, i’m @mazaa02
-- 👀 i’m interested in GTA's roleplay servers.
+- 👀 i’m interested in Web Development and GTA's roleplay servers.
 - 🌱 i’m currently learning JavaScript.
 - 📫 monkkey on discord.
 
